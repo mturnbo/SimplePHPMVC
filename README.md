@@ -1,2 +1,2 @@
 # SimplePHPMVC
-Basic MVC framework in PHP
+A Basic MVC framework in PHP that uses Apache rewrite module to facilitate controller interaction.
